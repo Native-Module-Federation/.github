@@ -6,8 +6,10 @@
 
 It allows JavaScript assets—such as micro frontends or individual app components—to be developed, tested, and deployed independently. These assets are then fetched remotely and integrated at runtime using the browser’s native ESM capabilities, without relying on a bundler like Webpack to stitch them together.
 
+<!--
 ### Introduction
 Outline and instructions on how to implement native module federation
+-->
 <!--
 
 **Here are some ideas to get you started:**
