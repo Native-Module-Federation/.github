@@ -20,14 +20,17 @@ The development of this architecture arose from the need to transform deliveries
 
 
 
-| Aspect         | **Value Stream**             | **Siloed Process**             |
-| -------------- | ---------------------------- | ------------------------------ |
-| Focus          | End-to-end customer value    | Departmental tasks or KPIs     |
-| Flow           | Continuous, cross-functional | Fragmented, with handoffs      |
-| Visibility     | Full workflow is transparent | Limited to functional areas    |
-| Feedback Loops | Fast, integrated             | Slow, disconnected             |
-| Optimization   | System-level (global)        | Local (per team or department) |
+| Aspect         | **Value Stream**             | **Siloed Process**                |
+| -------------- | ---------------------------- | --------------------------------- |
+| Focus          | End-to-end customer value    | Departmental tasks or KPIs        |
+| Flow           | Continuous, cross-functional | Fragmented, with handoffs         |
+| Visibility     | Full workflow is transparent | Limited to functional areas       |
+| Feedback Loops | Fast, integrated             | Slow, disconnected                |
+| Optimization   | System-level (global)        | Local (per team or department)    |
+| Deployment     | Small Deployments, less risk | Monotlithic Deployment, high risk |         
 
+
+<b>Native Module Federation focuses on a strategy for decoupling yet maintaining cohesion betweeen each front end application that represents a value stream.</b>
 
 ---
 
