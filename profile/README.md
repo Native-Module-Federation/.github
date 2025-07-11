@@ -12,6 +12,8 @@ It allows JavaScript assets—such as micro frontends or individual app componen
 
 The development of this architecture arose from the need to transform deliveries of from a <b>Siloed Workflow</b> to a <b>Value Stream</b>.
 
+Note: Using Native Module Federation is a strategy that lends itself to working in value streams, however, it can be an interesting application architecture for any workflow.
+
 #### Silos separate work by department or function (e.g., design, development, QA, operations), often with:
   -  Poor communication across teams
   -  Handoffs and delays between stages
